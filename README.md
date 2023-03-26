@@ -1,8 +1,10 @@
 ## Hi, I'm Diana! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+![github_portada-removebg-preview](https://user-images.githubusercontent.com/114468848/227757195-36b61e09-9495-49b5-8915-710e99e712ad.png)
 
-
+<!--
 ![github portada](https://user-images.githubusercontent.com/114468848/227756830-2764308b-3724-4f3b-8f86-c4ad0bd977d4.png)
+-->
 
 
 
