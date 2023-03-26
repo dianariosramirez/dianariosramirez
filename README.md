@@ -10,7 +10,9 @@ _Hola, soy Diana. Una apasionada desarrolladora web en crecimiento. Disfruto apr
 
 ---
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdianariosram)
+ [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdianariosram)](https://twitter.com/dianariosram)
+ [![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Linkedin&logo=%230A66C2&logoColor=blue&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdianariosram%2F)](https://www.linkedin.com/in/dianariosram/)
+
 
 <!--
 ![github_portada-removebg-preview](https://user-images.githubusercontent.com/114468848/227757195-36b61e09-9495-49b5-8915-710e99e712ad.png)
