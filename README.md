@@ -2,6 +2,15 @@
 
 ![github portada](https://user-images.githubusercontent.com/114468848/227756830-2764308b-3724-4f3b-8f86-c4ad0bd977d4.png)
 
+---
+
+**Hi, I'm is Diana. I am a passionate growing web developer. I enjoy learning new tools that help me continue to develop personally and professionally.**
+
+_Hola, soy Diana. Una apasionada desarrolladora web en crecimiento. Disfruto aprender nuevas herramientas que me ayuden a seguir desarrollándome personal y profesionalmente._ 
+
+---
+
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdianariosram)
 
 <!--
 ![github_portada-removebg-preview](https://user-images.githubusercontent.com/114468848/227757195-36b61e09-9495-49b5-8915-710e99e712ad.png)
