@@ -2,7 +2,7 @@
 
 ---
 
-**Hi, I'm Diana. I am a passionate growing web developer. I enjoy learning new tools that help me continue to develop personally and professionally.**
+**I am a passionate growing web developer. I enjoy learning new tools that help me continue to develop personally and professionally.**
 
 _Hola, soy Diana. Una apasionada desarrolladora web en crecimiento. Disfruto aprender nuevas herramientas que me ayuden a seguir desarrollándome personal y profesionalmente._ 
 
