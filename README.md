@@ -1,10 +1,9 @@
 ## Hi, I'm Diana!
 
 ---
+![github](https://user-images.githubusercontent.com/114468848/227833815-3661944a-3e1e-4602-89cc-2f0f703f76bb.gif)
 
-**I am a passionate growing web developer. I enjoy learning new tools that help me continue to develop personally and professionally.**
 
-_Hola, soy Diana. Una apasionada desarrolladora web en crecimiento. Disfruto aprender nuevas herramientas que me ayuden a seguir desarrollándome personal y profesionalmente._ 
 
 ---
 
