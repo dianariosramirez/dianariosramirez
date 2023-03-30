@@ -1,5 +1,7 @@
 ## Hi, I'm Diana!
 
+![2626172_page-0001](https://user-images.githubusercontent.com/114468848/228949253-09dda854-809d-487f-9246-dfe26a7720c1.jpg)
+
 ---
 
  [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdianariosram)](https://twitter.com/dianariosram)
